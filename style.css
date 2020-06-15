@@ -1,0 +1,15 @@
+:root{
+  font-family: 'Roboto', sans-serif;
+}
+
+.card{
+  background-color: rgb(165, 115, 157);
+  padding: 1em;
+  
+  border-radius: 2px;
+  filter: drop-shadow(navy);
+}
+
+.sarcasm {
+  font-style: italic;
+}
